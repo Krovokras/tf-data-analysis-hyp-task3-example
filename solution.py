@@ -1,4 +1,4 @@
-mport pandas as pd
+import pandas as pd
 import numpy as np
 from scipy.stats import shapiro, ttest_ind
 
